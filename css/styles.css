@@ -1,0 +1,95 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+div{
+    padding: 20px;
+}
+
+.logo-img{
+    display: block;
+    margin: 0 auto 
+}
+
+.center-span{
+    text-align: left;
+    margin: 0 auto;
+}
+
+fieldset{
+    width: 95%;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    padding: 10px 25px;
+
+}
+
+form label{
+    font-size: 80%;
+    font-weight: bold;
+}
+
+form input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    margin-bottom: 25px;
+}
+
+form input[type="submit"]{
+    background-color: goldenrod;
+    font-size: 85%;
+}
+
+
+
+
+.forgot-password{
+    padding-left: 20px;
+    float: right;
+    font-size: small;
+
+}
+
+.hyperlink{
+    color: blueviolet ;
+    font-size: small;
+    
+}
+
+.new-text{
+    color: gray;
+    font-size: small;
+    background-color: white;
+}
+
+.line{
+    width: 100%; 
+}
+
+.button{
+    background-color: lightgrey;
+    color: black;
+    width: 100%;
+
+}
+
+.footerInfo{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin: 30px;
+
+
+}
+.center-new{
+    text-align: center;
+    font-size: small;
+}
+.affil{
+    font-size: small;
+    text-align:center;
+}
